@@ -14,6 +14,7 @@ namespace giang1
             Console.WriteLine("1720071");
             Console.ReadLine();
 
+
         }
     }
 }
