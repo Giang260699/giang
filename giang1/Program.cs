@@ -10,6 +10,8 @@ namespace giang1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("nguyen hoang long giang");
+            Console.ReadLine();
         }
     }
 }
