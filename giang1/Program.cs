@@ -11,6 +11,7 @@ namespace giang1
         static void Main(string[] args)
         {
             Console.WriteLine("nguyen hoang long giang");
+            Console.WriteLine("1720071");
             Console.ReadLine();
 
         }
