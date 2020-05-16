@@ -12,6 +12,7 @@ namespace giang1
         {
             Console.WriteLine("nguyen hoang long giang");
             Console.ReadLine();
+
         }
     }
 }
