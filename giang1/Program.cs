@@ -12,9 +12,8 @@ namespace giang1
         {
             Console.WriteLine("nguyen hoang long giang");
             Console.WriteLine("1720071");
+            Console.WriteLine("26 06 99");
             Console.ReadLine();
-
-
         }
     }
 }
